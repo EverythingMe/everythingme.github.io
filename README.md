@@ -1,5 +1,1 @@
-# openspace
-
-A showcase for open source projects.
-
-Awesome animations with [MixItUp](https://mixitup.kunkalabs.com/)
+Based on our open sourc project https://github.com/EverythingMe/openspace
