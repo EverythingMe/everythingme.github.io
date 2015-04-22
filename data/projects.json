@@ -1,151 +1,396 @@
 
 [
   {
-    "name": "Project1",
+    "icon_class": "mdi-social-poll",
+    "name": "redash",
     "tags": [
-      "Tag1"
+      "Python",
+      "Analytics",
+      "Redshift",
+      "re:tools"
     ],
     "links": [{
-      "url": "http://yourblog.com/project/Project1",
-      "title": "read more",
-      "class": "icon-book"
-    }, {
-      "url": "https://github.com/user/Project1",
+      "url": "https://github.com/EverythingMe/redash",
       "title": "github"
     }],
+    "icon_url": "",
+    "forks_count": 58,
+    "stars_count": 305,
+    "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
+  },
+  {
+    "icon_class": "mdi-maps-my-location",
+    "name": "geodis",
+    "tags": [
+      "Python"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/geodis",
+      "title": "github"
+    }],
+    "icon_url": "",
     "forks_count": 28,
     "stars_count": 239,
-    "icon_class": "mdi-file-cloud-done",
-    "description": "A description of Project1. This is actually a really really really really long description. If it's more than three rows of text, it should get cut off and an ellipsis will."
+    "description": "A redis based geo-resolving library"
   },
   {
-    "name": "Project2",
+    "icon_class": "mdi-device-now-widgets",
+    "name": "kickass-redis",
     "tags": [
-      "Tag1"
+      "Python",
+      "redis"
     ],
     "links": [{
-      "url": "http://example.com",
-      "title": "site",
-      "class": "mdi-action-home"
-    } ,{
-      "url": "https://github.com/user/Project2",
+      "url": "https://github.com/EverythingMe/kickass-redis",
       "title": "github"
     }],
+    "icon_url": "",
+    "forks_count": 21,
+    "stars_count": 139,
+    "description": "Loose python framework for kickass redis patterns"
+  },
+  {
+    "icon_class": "mdi-action-view-day",
+    "name": "plaxien",
+    "tags": [
+      "Java",
+      "Android"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/plaxien",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 10,
+    "stars_count": 129,
+    "description": "An Android library to create Explain Views for algorithms"
+  },
+  {
+    "icon_class": "mdi-editor-format-line-spacing",
+    "name": "OverScrollView",
+    "tags": [
+      "Java",
+      "Android"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/OverScrollView",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 49,
+    "stars_count": 65,
+    "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
+  },
+  {
+    "icon_class": "mdi-action-settings-remote",
+    "name": "fabric-aws",
+    "tags": [
+      "Python",
+      "DevOps"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/fabric-aws",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 8,
+    "stars_count": 50,
+    "description": ""
+  },
+  {
+    "icon_class": "mdi-image-looks",
+    "name": "rainbow",
+    "tags": [
+      "Python",
+      "DevOps"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/rainbow",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 12,
+    "stars_count": 31,
+    "description": "Cloudformation on steroids"
+  },
+  {
+    "icon_class": "mdi-device-developer-mode",
+    "name": "TouchyJS",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/TouchyJS",
+      "title": "github"
+    }],
+    "icon_url": "",
     "forks_count": 2,
     "stars_count": 19,
-    "icon_class": "mdi-hardware-security",
-    "description": "A description of Project2"
+    "description": ""
   },
   {
-    "name": "Project3",
+    "icon_class": "mdi-maps-layers-clear",
+    "name": "disposable-redis",
     "tags": [
-      "Tag2"
+      "Go",
+      "redis"
     ],
     "links": [{
-      "url": "https://github.com/user/Project3",
+      "url": "https://github.com/EverythingMe/disposable-redis",
       "title": "github"
     }],
+    "icon_url": "",
+    "forks_count": 1,
+    "stars_count": 14,
+    "description": "Create disposable redis servers on the fly for testing"
+  },
+  {
+    "icon_class": "mdi-notification-vibration",
+    "name": "magneto",
+    "tags": [
+      "Python",
+      "Automation"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/magneto",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 12,
+    "description": "Android test automation framework"
+  },
+  {
+    "icon_class": "mdi-editor-vertical-align-top",
+    "name": "Screaction",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/Screaction",
+      "title": "github"
+    }],
+    "icon_url": "",
     "forks_count": 3,
     "stars_count": 11,
-    "icon_class": "mdi-image-camera",
-    "description": "A description of Project3"
+    "description": "A js script enabling you to change css values as the page scrolls"
   },
   {
-    "name": "Project4",
+    "icon_class": "mdi-action-settings",
+    "name": "gofigure",
     "tags": [
-      "Tag3"
+      "Go"
     ],
     "links": [{
-      "url": "http://yourblog.com/project/Project4",
-      "title": "read more",
-      "class": "icon-book"
-    }, {
-      "url": "https://github.com/user/Project4",
+      "url": "https://github.com/EverythingMe/gofigure",
       "title": "github"
     }],
-    "forks_count": 28,
-    "stars_count": 239,
-    "icon_class": "mdi-maps-location-history",
-    "description": "A description of Project4"
+    "icon_url": "",
+    "forks_count": 1,
+    "stars_count": 8,
+    "description": "A simple config file reading library for Go"
   },
   {
-    "name": "Project5",
+    "icon_class": "mdi-image-grid-on",
+    "name": "redshift_console",
     "tags": [
-      "Tag1"
+      "JavaScript",
+      "Redshift",
+      "re:tools"
     ],
     "links": [{
-      "url": "http://yourblog.com/project/Project5",
-      "title": "read more",
-      "class": "icon-book"
-    }, {
-      "url": "https://github.com/user/Project5",
+      "url": "https://github.com/EverythingMe/redshift_console",
       "title": "github"
     }],
+    "icon_url": "",
     "forks_count": 2,
-    "stars_count": 19,
-    "icon_class": "mdi-maps-local-cafe",
-    "description": "A description of Project5"
+    "stars_count": 7,
+    "description": "Redshift Ops Console"
   },
   {
-    "name": "Project6",
+    "icon_class": "mdi-hardware-mouse",
+    "name": "click-config",
     "tags": [
-      "Tag2"
+      "Python"
     ],
     "links": [{
-      "url": "https://github.com/user/Project6",
+      "url": "https://github.com/EverythingMe/click-config",
       "title": "github"
     }],
-    "forks_count": 3,
-    "stars_count": 11,
-    "icon_class": "mdi-device-access-alarm",
-    "description": "A description of Project6"
-  },
-  {
-    "name": "Project7",
-    "tags": [
-      "Tag1",
-      "Tag2",
-      "Tag3"
-    ],
-    "links": [{
-      "url": "https://github.com/user/Project7",
-      "title": "github"
-    }],
-    "forks_count": 0,
-    "stars_count": 239,
-    "icon_class": "mdi-device-brightness-high",
-    "description": "A description of Project7"
-  },
-  {
-    "name": "Project8",
-    "tags": [
-      "Tag1"
-    ],
-    "links": [{
-      "url": "http://yourblog.com/project/Project8",
-      "title": "read more",
-      "class": "icon-book"
-    }, {
-      "url": "https://github.com/user/Project8",
-      "title": "github"
-    }],
+    "icon_url": "",
     "forks_count": 2,
-    "stars_count": 0,
-    "icon_class": "mdi-editor-insert-photo",
-    "description": "A description of Project8"
+    "stars_count": 6,
+    "description": "Config parsing for click cli applications"
   },
   {
-    "name": "Project9",
+    "icon_class": "mdi-action-assignment",
+    "name": "ffos-notes",
     "tags": [
-      "Tag2"
+      "JavaScript"
     ],
     "links": [{
-      "url": "https://github.com/user/Project9",
+        "url": "https://github.com/EverythingMe/ffos-notes",
+        "title": "github"
+      }],
+    "icon_url": "",
+    "forks_count": 21,
+    "stars_count": 5,
+    "description": "Notes App for FirefoxOS"
+  },
+  {
+    "icon_class": "mdi-action-translate",
+    "name": "jitt",
+    "tags": [
+      "Java",
+      "Android",
+      "re:tools"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/jitt",
       "title": "github"
     }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 4,
+    "description": "Just In Time Translations (Android Plugin)"
+  },
+  {
+    "icon_class": "mdi-action-receipt",
+    "name": "pyretrace",
+    "tags": [
+      "Python",
+      "Android"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/pyretrace",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 3,
+    "description": "A python reimplementation on Proguard's Retrace"
+  },
+  {
+    "icon_class": "mdi-action-input",
+    "name": "logstash-scribeinput",
+    "tags": [
+      "Java",
+      "DevOps"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/logstash-scribeinput",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 4,
+    "stars_count": 1,
+    "description": "A logstash input plugin which receives scribe log entries via thrift"
+  },
+  {
+    "icon_class": "mdi-content-archive",
+    "name": "cql_dump",
+    "tags": [
+      "Python"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/cql_dump",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 1,
+    "stars_count": 1,
+    "description": ""
+  },
+  {
+    "icon_class": "mdi-image-grain",
+    "name": "snakepit",
+    "tags": [
+      "Python"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/snakepit",
+      "title": "github"
+    }],
+    "icon_url": "",
     "forks_count": 0,
     "stars_count": 0,
-    "icon_class": "mdi-maps-local-attraction",
-    "description": "A description of Project9"
+    "description": ""
+  },
+  {
+    "icon_class": "mdi-navigation-more-vert",
+    "name": "bson",
+    "tags": [
+      "Go"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/bson",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 0,
+    "description": "A fork of the Vitess BSON library"
+  },
+  {
+    "icon_class": "mdi-notification-vibration",
+    "name": "magneto-demo-calc",
+    "tags": [
+      "Python",
+      "Automation"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/magneto-demo-calc",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 0,
+    "description": "Example Magneto tests for calculator app"
+  },
+  {
+    "icon_class": "mdi-action-settings-input-antenna",
+    "name": "thelightd",
+    "tags": [
+      "Python",
+      "DevOps"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/thelightd",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 0,
+    "description": "Flask server for thelight project"
+  },
+  {
+    "icon_class": "mdi-file-cloud",
+    "name": "go-accuweather",
+    "tags": [
+      "Go"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/go-accuweather",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 0,
+    "description": "Go wrapper for the Accuweather API."
+  },
+  {
+    "icon_class": "mdi-action-aspect-ratio",
+    "name": "supersizeme",
+    "tags": [
+      "Go"
+    ],
+    "links": [{
+      "url": "https://github.com/EverythingMe/supersizeme",
+      "title": "github"
+    }],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 0,
+    "description": "Image resizing proxy for appengine."
   }
 ]
