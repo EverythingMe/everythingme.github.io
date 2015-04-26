@@ -10,6 +10,10 @@
       "re:tools"
     ],
     "links": [{
+      "url": "http://redash.io",
+      "title": "redash.io",
+      "class": "mdi-action-home"
+    }, {
       "url": "https://github.com/EverythingMe/redash",
       "title": "github"
     }],
