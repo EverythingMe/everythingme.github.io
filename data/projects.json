@@ -291,21 +291,6 @@
     "description": "A logstash input plugin which receives scribe log entries via thrift"
   },
   {
-    "icon_class": "mdi-content-archive",
-    "name": "cql_dump",
-    "tags": [
-      "Python"
-    ],
-    "links": [{
-      "url": "https://github.com/EverythingMe/cql_dump",
-      "title": "github"
-    }],
-    "icon_url": "",
-    "forks_count": 1,
-    "stars_count": 1,
-    "description": ""
-  },
-  {
     "icon_class": "mdi-image-grain",
     "name": "snakepit",
     "tags": [
