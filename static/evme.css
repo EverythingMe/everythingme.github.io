@@ -7,5 +7,13 @@ footer ul {
   padding: 0;
 }
 footer h3 a {
-  font-size: 20px;
+  font-size: 18px;
+}
+#jobs {
+  margin-bottom: 20px;
+}
+footer h2 > * {
+  float: right;
+  position: relative !important;
+  top: 16px;
 }

@@ -4,7 +4,7 @@ var feed_url = 'http://geeks.everything.me/feed';
 
 $.getJSON(url+encodeURIComponent(feed_url)).done(function(data) {
   // up to 4 items
-  var items = {'entries': data.responseData.feed.entries.slice(0,4)};
+  var items = {'entries': data.responseData.feed.entries.slice(0,3)};
 
   var source   = $('#blog-template').html();
   var template = Handlebars.compile(source);
