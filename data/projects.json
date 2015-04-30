@@ -21,8 +21,8 @@
       "re:tools"
     ],
     "icon_url": "",
-    "forks_count": 59,
-    "stars_count": 314,
+    "forks_count": 60,
+    "stars_count": 317,
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   },
   {
@@ -39,7 +39,7 @@
     ],
     "icon_url": "",
     "forks_count": 28,
-    "stars_count": 240,
+    "stars_count": 238,
     "description": "A redis based geo-resolving library"
   },
   {
@@ -93,7 +93,7 @@
     ],
     "icon_url": "",
     "forks_count": 49,
-    "stars_count": 67,
+    "stars_count": 68,
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   },
   {
@@ -256,6 +256,23 @@
     "description": "Redshift Ops Console"
   },
   {
+    "icon_class": "mdi-communication-swap-calls",
+    "name": "go-disque",
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/go-disque",
+        "title": "github"
+      }
+    ],
+    "tags": [
+      "Go"
+    ],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 7,
+    "description": "Go client for Disque"
+  },
+  {
     "icon_class": "mdi-action-assignment",
     "name": "ffos-notes",
     "links": [
@@ -308,6 +325,23 @@
     "forks_count": 0,
     "stars_count": 3,
     "description": "A python reimplementation on Proguard's Retrace"
+  },
+  {
+    "icon_class": "mdi-action-view-module",
+    "name": "openspace",
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/openspace",
+        "title": "github"
+      }
+    ],
+    "tags": [
+      "JavaScript"
+    ],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 2,
+    "description": "An open source app to showcase your open source work (yo dawg)"
   },
   {
     "icon_class": "mdi-action-input",
@@ -378,23 +412,6 @@
     "forks_count": 0,
     "stars_count": 0,
     "description": "Example Magneto tests for calculator app"
-  },
-  {
-    "name": "openspace",
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/openspace",
-        "title": "github"
-      }
-    ],
-    "tags": [
-      "JavaScript"
-    ],
-    "forks_count": 0,
-    "stars_count": 0,
-    "icon_url": "",
-    "icon_class": "mdi-action-view-module",
-    "description": "An open source app to showcase your open source work (yo dawg)"
   },
   {
     "icon_class": "mdi-image-grain",
