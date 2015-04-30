@@ -1,11 +1,11 @@
-h2 {
+footer h2 {
   font-size: 24px;
   border-bottom: 1px solid #c4c4c4;
 }
-ul {
+footer ul {
   list-style: none;
   padding: 0;
 }
-ul li h3 a {
+footer h3 a {
   font-size: 20px;
 }
