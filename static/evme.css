@@ -12,8 +12,19 @@ footer h3 a {
 #jobs {
   margin-bottom: 20px;
 }
+footer h2 {
+  font-family: Roboto;
+  text-transform: none;
+  font-weight: 100;
+}
 footer h2 > * {
   float: right;
   position: relative !important;
   top: 16px;
+}
+
+@media all and (min-width: 992px) {
+  h2 {
+    margin-top: 17px;
+  }
 }
