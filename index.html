@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="static/components/bootstrap-material-design/dist/css/ripples.min.css">
     <link rel="stylesheet" href="static/components/bootstrap-material-design/dist/css/roboto.min.css">
     <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="static/evme.css">
   </head>
   <body>
     <div class="navbar">
@@ -36,6 +37,22 @@
     <div id="projects">
       <div class="gap"></div>
       <div class="gap"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Our tweets</h2>
+        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/evmegeeks" data-widget-id="592381820005552128" data-chrome="nofooter transparent noheader noborders noscrollbar" data-link-color="#1c8096" data-tweet-limit="6"></a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+      <div class="col-md-4">
+        <h2>Geeks blog</h2>
+        <div id="blog"></div>
+      </div>
+      <div class="col-md-4">
+        <h2>We're hiring</h2>
+        <div id="jobs"></div>
+      </div>
     </div>
   </div>
 
@@ -105,6 +122,28 @@
     {{/tags}}
   </script>
 
+  <script id="blog-template" type="text/x-handlebars-template">
+    <ul>
+    {{#entries}}
+      <li>
+        <h3><a href="{{ link }}" target="_blank">{{ title }}</a></h3>
+        <p>{{{ contentSnippet }}}</p>
+      </li>
+    {{/entries}}
+    </ul>
+  </script>
+
+  <script id="jobs-template" type="text/x-handlebars-template">
+    <ul>
+    {{#results}}
+      <li>
+        <h3><a href="{{ url }}" target="_blank">{{ title }}</a></h3>
+        <p>Location: {{ location }}</p>
+      </li>
+    {{/results}}
+    </ul>
+  </script>
+
 
   <script src="static/components/handlebars/handlebars.min.js"></script>
   <script src="static/components/underscore/underscore-min.js"></script>
@@ -123,6 +162,7 @@
   <script>
     var app = App();
   </script>
+  <script src="static/evme.js"></script>
 </body>
 
 </html>
