@@ -111,7 +111,7 @@
     "icon_url": "",
     "forks_count": 8,
     "stars_count": 51,
-    "description": ""
+    "description": "fabric AWS integration"
   },
   {
     "icon_class": "mdi-image-looks",
@@ -202,6 +202,23 @@
     "description": "A simple config file reading library for Go"
   },
   {
+    "icon_class": "mdi-communication-swap-calls",
+    "name": "go-disque",
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/go-disque",
+        "title": "github"
+      }
+    ],
+    "tags": [
+      "Go"
+    ],
+    "icon_url": "",
+    "forks_count": 0,
+    "stars_count": 8,
+    "description": "Go client for Disque"
+  },
+  {
     "icon_class": "mdi-hardware-mouse",
     "name": "click-config",
     "links": [
@@ -238,21 +255,31 @@
     "description": "Redshift Ops Console"
   },
   {
-    "icon_class": "mdi-communication-swap-calls",
-    "name": "go-disque",
+    "icon_class": "mdi-action-view-module",
+    "name": "openspace",
     "links": [
       {
-        "url": "https://github.com/EverythingMe/go-disque",
+        "url": "http://everythingme.github.io/openspace",
+        "class": "mdi-action-visibility",
+        "title": "demo"
+      },
+      {
+        "url": "http://geeks.everything.me/2015/05/01/showcasing-your-open-source-projects-with-openspace/",
+        "class": "icon-book",
+        "title": "read more"
+      },
+      {
+        "url": "https://github.com/EverythingMe/openspace",
         "title": "github"
       }
     ],
     "tags": [
-      "Go"
+      "JavaScript"
     ],
     "icon_url": "",
     "forks_count": 0,
-    "stars_count": 7,
-    "description": "Go client for Disque"
+    "stars_count": 6,
+    "description": "An open source app to showcase your open source work (yo dawg)"
   },
   {
     "icon_class": "mdi-action-assignment",
@@ -267,7 +294,7 @@
       "JavaScript"
     ],
     "icon_url": "",
-    "forks_count": 21,
+    "forks_count": 22,
     "stars_count": 5,
     "description": "Notes App for FirefoxOS"
   },
@@ -289,33 +316,6 @@
     "forks_count": 0,
     "stars_count": 4,
     "description": "Just In Time Translations (Android Plugin)"
-  },
-  {
-    "icon_class": "mdi-action-view-module",
-    "name": "openspace",
-    "links": [
-      {
-        "url": "http://everythingme.github.io/openspace",
-        "title": "demo",
-        "class": "mdi-action-visibility"
-      },
-      {
-        "url": "http://geeks.everything.me/2015/05/01/showcasing-your-open-source-projects-with-openspace/",
-        "title": "read more",
-        "class": "icon-book"
-      },
-      {
-        "url": "https://github.com/EverythingMe/openspace",
-        "title": "github"
-      }
-    ],
-    "tags": [
-      "JavaScript"
-    ],
-    "icon_url": "",
-    "forks_count": 0,
-    "stars_count": 5,
-    "description": "An open source app to showcase your open source work (yo dawg)"
   },
   {
     "icon_class": "mdi-action-receipt",
