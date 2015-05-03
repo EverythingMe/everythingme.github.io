@@ -1,5 +1,11 @@
+footer {
+  transition: opacity 0.5s ease;
+}
 footer:not([data-ready="true"]) {
   display: none;
+}
+body[data-mixing="true"] footer {
+  opacity: 0;
 }
 footer h2 {
   font-size: 23px;

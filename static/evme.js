@@ -1,8 +1,12 @@
-$('#projects').one('mixEnd', function(e, state){
-  $('footer')[0].dataset.ready = 'true';
-  loadBlogPosts();
-  loadJobs();
-});
+$('#projects')
+  .on('mixLoad', function(){
+    $('footer')[0].dataset.ready = 'true';
+    loadBlogPosts();
+    loadJobs();
+  })
+  .on('mixStart mixEnd', function(e) {
+    document.body.dataset.mixing = e.type == 'mixStart';
+  });
 
 function loadBlogPosts() {
   var url = 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&output=json&callback=?&q='
