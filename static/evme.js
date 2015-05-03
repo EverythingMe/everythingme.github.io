@@ -1,4 +1,4 @@
-$('#projects').on('mixEnd', function(e, state){
+$('#projects').one('mixEnd', function(e, state){
   $('footer')[0].dataset.ready = 'true';
   loadBlogPosts();
   loadJobs();
