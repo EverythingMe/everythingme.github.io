@@ -38,7 +38,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 240, 
+    "stars_count": 242, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -110,7 +110,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 8, 
-    "stars_count": 51, 
+    "stars_count": 53, 
     "description": "fabric AWS integration"
   }, 
   {
@@ -185,76 +185,6 @@
     "description": "A js script enabling you to change css values as the page scrolls"
   }, 
   {
-    "icon_class": "mdi-communication-swap-calls", 
-    "name": "go-disque", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/go-disque", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Go"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 9, 
-    "description": "Go client for Disque"
-  }, 
-  {
-    "icon_class": "mdi-action-settings", 
-    "name": "gofigure", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/gofigure", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Go"
-    ], 
-    "icon_url": "", 
-    "forks_count": 1, 
-    "stars_count": 8, 
-    "description": "A simple config file reading library for Go"
-  }, 
-  {
-    "icon_class": "mdi-hardware-mouse", 
-    "name": "click-config", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/click-config", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python"
-    ], 
-    "icon_url": "", 
-    "forks_count": 2, 
-    "stars_count": 7, 
-    "description": "Config parsing for click cli applications"
-  }, 
-  {
-    "icon_class": "mdi-image-grid-on", 
-    "name": "redshift_console", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/redshift_console", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "JavaScript", 
-      "Redshift", 
-      "re:tools"
-    ], 
-    "icon_url": "", 
-    "forks_count": 2, 
-    "stars_count": 7, 
-    "description": "Redshift Ops Console"
-  }, 
-  {
     "icon_class": "mdi-action-view-module", 
     "name": "openspace", 
     "links": [
@@ -277,9 +207,79 @@
       "JavaScript"
     ], 
     "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 6, 
+    "forks_count": 1, 
+    "stars_count": 11, 
     "description": "An open source app to showcase your open source work (yo dawg)"
+  }, 
+  {
+    "icon_class": "mdi-communication-swap-calls", 
+    "name": "go-disque", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/go-disque", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Go"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 9, 
+    "description": "Go client for Disque"
+  }, 
+  {
+    "icon_class": "mdi-hardware-mouse", 
+    "name": "click-config", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/click-config", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python"
+    ], 
+    "icon_url": "", 
+    "forks_count": 2, 
+    "stars_count": 8, 
+    "description": "Config parsing for click cli applications"
+  }, 
+  {
+    "icon_class": "mdi-action-settings", 
+    "name": "gofigure", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/gofigure", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Go"
+    ], 
+    "icon_url": "", 
+    "forks_count": 1, 
+    "stars_count": 8, 
+    "description": "A simple config file reading library for Go"
+  }, 
+  {
+    "icon_class": "mdi-image-grid-on", 
+    "name": "redshift_console", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/redshift_console", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "JavaScript", 
+      "Redshift", 
+      "re:tools"
+    ], 
+    "icon_url": "", 
+    "forks_count": 2, 
+    "stars_count": 7, 
+    "description": "Redshift Ops Console"
   }, 
   {
     "icon_class": "mdi-action-assignment", 
@@ -386,22 +386,5 @@
     "forks_count": 0, 
     "stars_count": 0, 
     "description": "Example Magneto tests for calculator app"
-  }, 
-  {
-    "icon_class": "mdi-image-grain", 
-    "name": "snakepit", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/snakepit", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 0, 
-    "description": ""
   }
 ]

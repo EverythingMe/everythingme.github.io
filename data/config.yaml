@@ -13,3 +13,4 @@ filters:
         - thelightd
         - logstash-scribeinput
         - supersizeme
+        - snakepit
