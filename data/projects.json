@@ -20,7 +20,7 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 61, 
+    "forks_count": 62, 
     "stars_count": 324, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
@@ -38,7 +38,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 242, 
+    "stars_count": 243, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -91,7 +91,7 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 49, 
+    "forks_count": 50, 
     "stars_count": 68, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
@@ -109,7 +109,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 0, 
-    "stars_count": 55, 
+    "stars_count": 64, 
     "description": "Go client for Disque"
   }, 
   {
