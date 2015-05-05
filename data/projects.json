@@ -21,7 +21,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 61, 
-    "stars_count": 320, 
+    "stars_count": 324, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -96,6 +96,23 @@
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
+    "icon_class": "mdi-communication-swap-calls", 
+    "name": "go-disque", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/go-disque", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Go"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 55, 
+    "description": "Go client for Disque"
+  }, 
+  {
     "icon_class": "mdi-action-settings-remote", 
     "name": "fabric-aws", 
     "links": [
@@ -130,6 +147,33 @@
     "forks_count": 11, 
     "stars_count": 32, 
     "description": "Cloudformation on steroids"
+  }, 
+  {
+    "icon_class": "mdi-action-view-module", 
+    "name": "openspace", 
+    "links": [
+      {
+        "url": "http://everythingme.github.io/openspace", 
+        "class": "mdi-action-visibility", 
+        "title": "demo"
+      }, 
+      {
+        "url": "http://geeks.everything.me/2015/05/01/showcasing-your-open-source-projects-with-openspace/", 
+        "class": "icon-book", 
+        "title": "read more"
+      }, 
+      {
+        "url": "https://github.com/EverythingMe/openspace", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "JavaScript"
+    ], 
+    "icon_url": "", 
+    "forks_count": 2, 
+    "stars_count": 23, 
+    "description": "An open source app to showcase your open source work (yo dawg)"
   }, 
   {
     "icon_class": "mdi-maps-layers-clear", 
@@ -183,50 +227,6 @@
     "forks_count": 3, 
     "stars_count": 11, 
     "description": "A js script enabling you to change css values as the page scrolls"
-  }, 
-  {
-    "icon_class": "mdi-action-view-module", 
-    "name": "openspace", 
-    "links": [
-      {
-        "url": "http://everythingme.github.io/openspace", 
-        "class": "mdi-action-visibility", 
-        "title": "demo"
-      }, 
-      {
-        "url": "http://geeks.everything.me/2015/05/01/showcasing-your-open-source-projects-with-openspace/", 
-        "class": "icon-book", 
-        "title": "read more"
-      }, 
-      {
-        "url": "https://github.com/EverythingMe/openspace", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "JavaScript"
-    ], 
-    "icon_url": "", 
-    "forks_count": 1, 
-    "stars_count": 11, 
-    "description": "An open source app to showcase your open source work (yo dawg)"
-  }, 
-  {
-    "icon_class": "mdi-communication-swap-calls", 
-    "name": "go-disque", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/go-disque", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Go"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 9, 
-    "description": "Go client for Disque"
   }, 
   {
     "icon_class": "mdi-hardware-mouse", 
