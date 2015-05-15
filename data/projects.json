@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 64, 
-    "stars_count": 379, 
+    "forks_count": 65, 
+    "stars_count": 404, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -101,7 +101,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 100, 
+    "stars_count": 101, 
     "description": "Go client for Disque"
   }, 
   {
@@ -118,8 +118,8 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 50, 
-    "stars_count": 69, 
+    "forks_count": 51, 
+    "stars_count": 70, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -154,7 +154,7 @@
       "DevOps"
     ], 
     "icon_url": "", 
-    "forks_count": 11, 
+    "forks_count": 10, 
     "stars_count": 34, 
     "description": "Cloudformation on steroids"
   }, 
