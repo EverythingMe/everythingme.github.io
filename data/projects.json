@@ -26,7 +26,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 65, 
-    "stars_count": 404, 
+    "stars_count": 415, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -43,7 +43,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 244, 
+    "stars_count": 245, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -101,7 +101,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 101, 
+    "stars_count": 102, 
     "description": "Go client for Disque"
   }, 
   {
@@ -118,8 +118,8 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 51, 
-    "stars_count": 70, 
+    "forks_count": 52, 
+    "stars_count": 72, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -181,7 +181,7 @@
       "JavaScript"
     ], 
     "icon_url": "", 
-    "forks_count": 1, 
+    "forks_count": 2, 
     "stars_count": 28, 
     "description": "An open source app to showcase your open source work (yo dawg)"
   }, 
@@ -252,7 +252,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 2, 
-    "stars_count": 8, 
+    "stars_count": 9, 
     "description": "Config parsing for click cli applications"
   }, 
   {
