@@ -26,7 +26,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 69, 
-    "stars_count": 516, 
+    "stars_count": 528, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -119,7 +119,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 53, 
-    "stars_count": 72, 
+    "stars_count": 73, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -361,23 +361,6 @@
     "forks_count": 0, 
     "stars_count": 0, 
     "description": "an extraction (with a couple of minor modifications) of Youtube's BSON library that's part of Vitess"
-  }, 
-  {
-    "icon_class": "", 
-    "name": "getmagneto.com", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/getmagneto.com", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "HTML"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 0, 
-    "description": "Magneto homepage"
   }, 
   {
     "icon_class": "mdi-file-cloud", 
