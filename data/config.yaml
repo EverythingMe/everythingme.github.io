@@ -14,3 +14,4 @@ filters:
         - logstash-scribeinput
         - supersizeme
         - snakepit
+        - getmagneto.com
