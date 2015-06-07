@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 71, 
-    "stars_count": 545, 
+    "forks_count": 73, 
+    "stars_count": 571, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -79,7 +79,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 10, 
-    "stars_count": 131, 
+    "stars_count": 132, 
     "description": "An Android library to create Explain Views for algorithms"
   }, 
   {
@@ -118,8 +118,8 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 53, 
-    "stars_count": 74, 
+    "forks_count": 56, 
+    "stars_count": 76, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -155,7 +155,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 12, 
-    "stars_count": 34, 
+    "stars_count": 35, 
     "description": "Cloudformation on steroids"
   }, 
   {
@@ -181,8 +181,8 @@
       "JavaScript"
     ], 
     "icon_url": "", 
-    "forks_count": 2, 
-    "stars_count": 29, 
+    "forks_count": 3, 
+    "stars_count": 30, 
     "description": "An open source app to showcase your open source work (yo dawg)"
   }, 
   {
@@ -239,23 +239,6 @@
     "description": "A js script enabling you to change css values as the page scrolls"
   }, 
   {
-    "icon_class": "mdi-hardware-mouse", 
-    "name": "click-config", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/click-config", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python"
-    ], 
-    "icon_url": "", 
-    "forks_count": 3, 
-    "stars_count": 9, 
-    "description": "Config parsing for click cli applications"
-  }, 
-  {
     "icon_class": "mdi-image-grid-on", 
     "name": "redshift_console", 
     "links": [
@@ -271,8 +254,25 @@
     ], 
     "icon_url": "", 
     "forks_count": 2, 
-    "stars_count": 9, 
+    "stars_count": 10, 
     "description": "Redshift Ops Console"
+  }, 
+  {
+    "icon_class": "mdi-hardware-mouse", 
+    "name": "click-config", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/click-config", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python"
+    ], 
+    "icon_url": "", 
+    "forks_count": 3, 
+    "stars_count": 9, 
+    "description": "Config parsing for click cli applications"
   }, 
   {
     "icon_class": "mdi-action-settings", 
