@@ -208,6 +208,11 @@
     "name": "magneto", 
     "links": [
       {
+        "url": "http://getmagneto.com", 
+        "class": "mdi-action-home", 
+        "title": "getmagneto.com"
+      },
+      {
         "url": "https://github.com/EverythingMe/magneto", 
         "title": "github"
       }
