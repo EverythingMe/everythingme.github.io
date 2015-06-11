@@ -26,7 +26,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 73, 
-    "stars_count": 571, 
+    "stars_count": 590, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -43,7 +43,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 246, 
+    "stars_count": 247, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -119,7 +119,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 56, 
-    "stars_count": 76, 
+    "stars_count": 79, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -137,7 +137,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 8, 
-    "stars_count": 53, 
+    "stars_count": 54, 
     "description": "fabric AWS integration"
   }, 
   {
@@ -182,7 +182,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 3, 
-    "stars_count": 30, 
+    "stars_count": 31, 
     "description": "An open source app to showcase your open source work (yo dawg)"
   }, 
   {
@@ -211,7 +211,7 @@
         "url": "http://getmagneto.com", 
         "class": "mdi-action-home", 
         "title": "getmagneto.com"
-      },
+      }, 
       {
         "url": "https://github.com/EverythingMe/magneto", 
         "title": "github"
@@ -259,7 +259,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 2, 
-    "stars_count": 10, 
+    "stars_count": 11, 
     "description": "Redshift Ops Console"
   }, 
   {
@@ -401,5 +401,22 @@
     "forks_count": 0, 
     "stars_count": 0, 
     "description": "Example Magneto tests for calculator app"
+  }, 
+  {
+    "icon_class": "", 
+    "name": "webp-android", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/webp-android", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "C"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 0, 
+    "description": "webp support for Android API Level 4 and up, includes the native library and a WebPImageView to render webp in your app "
   }
 ]
