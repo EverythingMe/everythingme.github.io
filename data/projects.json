@@ -403,7 +403,7 @@
     "description": "Example Magneto tests for calculator app"
   }, 
   {
-    "icon_class": "", 
+    "icon_class": "mdi-image-photo", 
     "name": "webp-android", 
     "links": [
       {
@@ -412,7 +412,8 @@
       }
     ], 
     "tags": [
-      "C"
+      "Android",
+      "Java"
     ], 
     "icon_url": "", 
     "forks_count": 0, 
