@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 78, 
-    "stars_count": 669, 
+    "forks_count": 86, 
+    "stars_count": 710, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -43,7 +43,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 248, 
+    "stars_count": 250, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -78,7 +78,7 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 11, 
+    "forks_count": 10, 
     "stars_count": 132, 
     "description": "An Android library to create Explain Views for algorithms"
   }, 
@@ -101,7 +101,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 105, 
+    "stars_count": 106, 
     "description": "Go client for Disque"
   }, 
   {
@@ -118,8 +118,8 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 56, 
-    "stars_count": 86, 
+    "forks_count": 57, 
+    "stars_count": 88, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -137,26 +137,8 @@
     ], 
     "icon_url": "", 
     "forks_count": 8, 
-    "stars_count": 55, 
+    "stars_count": 54, 
     "description": "fabric AWS integration"
-  }, 
-  {
-    "icon_class": "mdi-image-looks", 
-    "name": "rainbow", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/rainbow", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python", 
-      "DevOps"
-    ], 
-    "icon_url": "", 
-    "forks_count": 14, 
-    "stars_count": 36, 
-    "description": "Cloudformation on steroids"
   }, 
   {
     "icon_class": "mdi-action-view-module", 
@@ -182,8 +164,45 @@
     ], 
     "icon_url": "", 
     "forks_count": 3, 
-    "stars_count": 32, 
+    "stars_count": 45, 
     "description": "An open source app to showcase your open source work (yo dawg)"
+  }, 
+  {
+    "icon_class": "mdi-image-looks", 
+    "name": "rainbow", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/rainbow", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python", 
+      "DevOps"
+    ], 
+    "icon_url": "", 
+    "forks_count": 14, 
+    "stars_count": 36, 
+    "description": "Cloudformation on steroids"
+  }, 
+  {
+    "icon_class": "mdi-image-grid-on", 
+    "name": "redshift_console", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/redshift_console", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "JavaScript", 
+      "Redshift", 
+      "re:tools"
+    ], 
+    "icon_url": "", 
+    "forks_count": 3, 
+    "stars_count": 17, 
+    "description": "Redshift Ops Console"
   }, 
   {
     "icon_class": "mdi-maps-layers-clear", 
@@ -225,25 +244,6 @@
     "forks_count": 1, 
     "stars_count": 15, 
     "description": "Android Test Automation"
-  }, 
-  {
-    "icon_class": "mdi-image-grid-on", 
-    "name": "redshift_console", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/redshift_console", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "JavaScript", 
-      "Redshift", 
-      "re:tools"
-    ], 
-    "icon_url": "", 
-    "forks_count": 2, 
-    "stars_count": 13, 
-    "description": "Redshift Ops Console"
   }, 
   {
     "icon_class": "mdi-editor-vertical-align-top", 
@@ -293,7 +293,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 2, 
-    "stars_count": 8, 
+    "stars_count": 9, 
     "description": "A simple config file reading library for Go"
   }, 
   {
