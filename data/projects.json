@@ -26,7 +26,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 109, 
-    "stars_count": 798, 
+    "stars_count": 804, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -62,7 +62,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 13, 
-    "stars_count": 230, 
+    "stars_count": 233, 
     "description": "Cross language bloom filter implementation"
   }, 
   {
@@ -80,7 +80,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 21, 
-    "stars_count": 141, 
+    "stars_count": 142, 
     "description": "Loose python framework for kickass redis patterns"
   }, 
   {
@@ -98,7 +98,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 11, 
-    "stars_count": 133, 
+    "stars_count": 134, 
     "description": "An Android library to create Explain Views for algorithms"
   }, 
   {
@@ -158,6 +158,23 @@
     "forks_count": 8, 
     "stars_count": 56, 
     "description": "fabric AWS integration"
+  }, 
+  {
+    "icon_class": "", 
+    "name": "easy-content-providers", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/easy-content-providers", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Java"
+    ], 
+    "icon_url": "", 
+    "forks_count": 6, 
+    "stars_count": 54, 
+    "description": "Easy integration with Android's built-in and custom content providers data"
   }, 
   {
     "icon_class": "mdi-action-view-module", 
@@ -223,8 +240,8 @@
       "Automation"
     ], 
     "icon_url": "", 
-    "forks_count": 2, 
-    "stars_count": 24, 
+    "forks_count": 3, 
+    "stars_count": 28, 
     "description": "Android Test Automation"
   }, 
   {
@@ -367,23 +384,6 @@
     "forks_count": 1, 
     "stars_count": 5, 
     "description": "Just In Time Translations (Android Plugin)"
-  }, 
-  {
-    "icon_class": "", 
-    "name": "easy-content-providers", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/easy-content-providers", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Java"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 3, 
-    "description": "Work easy with Android built-in and custom content providers data + Stetho extension + Sample app"
   }, 
   {
     "icon_class": "mdi-action-receipt", 
