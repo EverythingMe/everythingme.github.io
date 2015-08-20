@@ -93,8 +93,8 @@
       }
     ], 
     "tags": [
-      "Java", 
-      "Android"
+      "Android",
+      "Java"
     ], 
     "icon_url": "", 
     "forks_count": 11, 
@@ -133,8 +133,8 @@
       }
     ], 
     "tags": [
-      "Java", 
-      "Android"
+      "Android",
+      "Java"
     ], 
     "icon_url": "", 
     "forks_count": 64, 
@@ -160,7 +160,7 @@
     "description": "fabric AWS integration"
   }, 
   {
-    "icon_class": "", 
+    "icon_class": "mdi-action-settings-input-component", 
     "name": "easy-content-providers", 
     "links": [
       {
@@ -169,6 +169,7 @@
       }
     ], 
     "tags": [
+      "Android",
       "Java"
     ], 
     "icon_url": "", 
@@ -333,7 +334,7 @@
     "description": "A simple config file reading library for Go"
   }, 
   {
-    "icon_class": "", 
+    "icon_class": "mdi-action-settings-ethernet", 
     "name": "pystream", 
     "links": [
       {
@@ -376,8 +377,8 @@
       }
     ], 
     "tags": [
-      "Java", 
-      "Android", 
+      "Android",
+      "Java",
       "re:tools"
     ], 
     "icon_url": "", 
@@ -404,7 +405,7 @@
     "description": "A python reimplementation on Proguard's Retrace"
   }, 
   {
-    "icon_class": "", 
+    "icon_class": "mdi-maps-layers-clear", 
     "name": "python-disposable-redis", 
     "links": [
       {
@@ -413,7 +414,8 @@
       }
     ], 
     "tags": [
-      "Python"
+      "Python",
+      "redis"
     ], 
     "icon_url": "", 
     "forks_count": 0, 
@@ -490,7 +492,7 @@
     "description": "Example Magneto tests for calculator app"
   }, 
   {
-    "icon_class": "", 
+    "icon_class": "mdi-navigation-cancel", 
     "name": "pytest-blocker", 
     "links": [
       {
