@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 109, 
-    "stars_count": 804, 
+    "forks_count": 112, 
+    "stars_count": 814, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -62,7 +62,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 13, 
-    "stars_count": 233, 
+    "stars_count": 235, 
     "description": "Cross language bloom filter implementation"
   }, 
   {
@@ -93,7 +93,7 @@
       }
     ], 
     "tags": [
-      "Android",
+      "Android", 
       "Java"
     ], 
     "icon_url": "", 
@@ -133,13 +133,31 @@
       }
     ], 
     "tags": [
-      "Android",
+      "Android", 
       "Java"
     ], 
     "icon_url": "", 
     "forks_count": 64, 
     "stars_count": 98, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
+  }, 
+  {
+    "icon_class": "mdi-action-settings-input-component", 
+    "name": "easy-content-providers", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/easy-content-providers", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Android", 
+      "Java"
+    ], 
+    "icon_url": "", 
+    "forks_count": 7, 
+    "stars_count": 63, 
+    "description": "Easy integration with Android's built-in and custom content providers data"
   }, 
   {
     "icon_class": "mdi-action-settings-remote", 
@@ -158,24 +176,6 @@
     "forks_count": 8, 
     "stars_count": 56, 
     "description": "fabric AWS integration"
-  }, 
-  {
-    "icon_class": "mdi-action-settings-input-component", 
-    "name": "easy-content-providers", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/easy-content-providers", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Android",
-      "Java"
-    ], 
-    "icon_url": "", 
-    "forks_count": 6, 
-    "stars_count": 54, 
-    "description": "Easy integration with Android's built-in and custom content providers data"
   }, 
   {
     "icon_class": "mdi-action-view-module", 
@@ -260,7 +260,7 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 4, 
+    "forks_count": 5, 
     "stars_count": 19, 
     "description": "Redshift Ops Console"
   }, 
@@ -377,8 +377,8 @@
       }
     ], 
     "tags": [
-      "Android",
-      "Java",
+      "Android", 
+      "Java", 
       "re:tools"
     ], 
     "icon_url": "", 
@@ -414,7 +414,7 @@
       }
     ], 
     "tags": [
-      "Python",
+      "Python", 
       "redis"
     ], 
     "icon_url": "", 
