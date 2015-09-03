@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 112, 
-    "stars_count": 814, 
+    "forks_count": 119, 
+    "stars_count": 828, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -43,7 +43,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 256, 
+    "stars_count": 257, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -62,7 +62,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 13, 
-    "stars_count": 235, 
+    "stars_count": 237, 
     "description": "Cross language bloom filter implementation"
   }, 
   {
@@ -98,7 +98,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 11, 
-    "stars_count": 134, 
+    "stars_count": 135, 
     "description": "An Android library to create Explain Views for algorithms"
   }, 
   {
@@ -137,8 +137,8 @@
       "Java"
     ], 
     "icon_url": "", 
-    "forks_count": 64, 
-    "stars_count": 98, 
+    "forks_count": 66, 
+    "stars_count": 99, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -156,7 +156,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 7, 
-    "stars_count": 63, 
+    "stars_count": 64, 
     "description": "Easy integration with Android's built-in and custom content providers data"
   }, 
   {
@@ -174,7 +174,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 8, 
-    "stars_count": 56, 
+    "stars_count": 57, 
     "description": "fabric AWS integration"
   }, 
   {
@@ -242,7 +242,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 3, 
-    "stars_count": 28, 
+    "stars_count": 29, 
     "description": "Android Test Automation"
   }, 
   {
@@ -363,7 +363,7 @@
       "JavaScript"
     ], 
     "icon_url": "", 
-    "forks_count": 21, 
+    "forks_count": 22, 
     "stars_count": 5, 
     "description": "Notes App for FirefoxOS"
   }, 
