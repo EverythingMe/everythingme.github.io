@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 119, 
-    "stars_count": 828, 
+    "forks_count": 122, 
+    "stars_count": 832, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -62,7 +62,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 13, 
-    "stars_count": 237, 
+    "stars_count": 238, 
     "description": "Cross language bloom filter implementation"
   }, 
   {
@@ -80,7 +80,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 21, 
-    "stars_count": 142, 
+    "stars_count": 143, 
     "description": "Loose python framework for kickass redis patterns"
   }, 
   {
@@ -120,7 +120,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 109, 
+    "stars_count": 110, 
     "description": "Go client for Disque"
   }, 
   {
@@ -137,8 +137,8 @@
       "Java"
     ], 
     "icon_url": "", 
-    "forks_count": 66, 
-    "stars_count": 99, 
+    "forks_count": 67, 
+    "stars_count": 101, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
