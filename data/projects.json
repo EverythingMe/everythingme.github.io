@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 126, 
-    "stars_count": 852, 
+    "forks_count": 127, 
+    "stars_count": 856, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -138,7 +138,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 69, 
-    "stars_count": 105, 
+    "stars_count": 106, 
     "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
@@ -156,7 +156,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 7, 
-    "stars_count": 68, 
+    "stars_count": 69, 
     "description": "Easy integration with Android's built-in and custom content providers data"
   }, 
   {
@@ -246,6 +246,24 @@
     "description": "Android Test Automation"
   }, 
   {
+    "icon_class": "mdi-content-sort", 
+    "name": "ncdu-s3", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/ncdu-s3", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python", 
+      "DevOps"
+    ], 
+    "icon_url": "", 
+    "forks_count": 1, 
+    "stars_count": 24, 
+    "description": "Run ncdu on S3 buckets"
+  }, 
+  {
     "icon_class": "mdi-image-grid-on", 
     "name": "redshift_console", 
     "links": [
@@ -261,7 +279,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 5, 
-    "stars_count": 19, 
+    "stars_count": 22, 
     "description": "Redshift Ops Console"
   }, 
   {
@@ -281,24 +299,6 @@
     "forks_count": 1, 
     "stars_count": 16, 
     "description": "Create disposable redis servers on the fly for testing"
-  }, 
-  {
-    "icon_class": "", 
-    "name": "ncdu-s3", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/ncdu-s3", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python",
-      "DevOps"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 13, 
-    "description": "Run ncdu on S3 buckets"
   }, 
   {
     "icon_class": "mdi-hardware-mouse", 
