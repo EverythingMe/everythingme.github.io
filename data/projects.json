@@ -378,6 +378,7 @@
       },
       {
         "url": "http://jitt.io", 
+        "class": "mdi-action-home",
         "title": "jitt.io"
       }
     ], 
