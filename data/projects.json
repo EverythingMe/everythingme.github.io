@@ -25,8 +25,8 @@
       "re:tools"
     ], 
     "icon_url": "", 
-    "forks_count": 127, 
-    "stars_count": 856, 
+    "forks_count": 143, 
+    "stars_count": 903, 
     "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards."
   }, 
   {
@@ -43,7 +43,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 28, 
-    "stars_count": 257, 
+    "stars_count": 258, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -62,7 +62,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 13, 
-    "stars_count": 238, 
+    "stars_count": 243, 
     "description": "Cross language bloom filter implementation"
   }, 
   {
@@ -79,8 +79,8 @@
       "redis"
     ], 
     "icon_url": "", 
-    "forks_count": 21, 
-    "stars_count": 143, 
+    "forks_count": 20, 
+    "stars_count": 142, 
     "description": "Loose python framework for kickass redis patterns"
   }, 
   {
@@ -98,8 +98,26 @@
     ], 
     "icon_url": "", 
     "forks_count": 11, 
-    "stars_count": 135, 
+    "stars_count": 137, 
     "description": "An Android library to create Explain Views for algorithms"
+  }, 
+  {
+    "icon_class": "mdi-editor-format-line-spacing", 
+    "name": "OverScrollView", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/OverScrollView", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Android", 
+      "Java"
+    ], 
+    "icon_url": "", 
+    "forks_count": 71, 
+    "stars_count": 113, 
+    "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
     "icon_class": "mdi-communication-swap-calls", 
@@ -120,26 +138,8 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 110, 
+    "stars_count": 111, 
     "description": "Go client for Disque"
-  }, 
-  {
-    "icon_class": "mdi-editor-format-line-spacing", 
-    "name": "OverScrollView", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/OverScrollView", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Android", 
-      "Java"
-    ], 
-    "icon_url": "", 
-    "forks_count": 69, 
-    "stars_count": 106, 
-    "description": "A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView."
   }, 
   {
     "icon_class": "mdi-action-settings-input-component", 
@@ -155,9 +155,32 @@
       "Java"
     ], 
     "icon_url": "", 
-    "forks_count": 7, 
-    "stars_count": 69, 
+    "forks_count": 10, 
+    "stars_count": 71, 
     "description": "Easy integration with Android's built-in and custom content providers data"
+  }, 
+  {
+    "icon_class": "mdi-notification-vibration", 
+    "name": "magneto", 
+    "links": [
+      {
+        "url": "http://getmagneto.com", 
+        "class": "mdi-action-home", 
+        "title": "getmagneto.com"
+      }, 
+      {
+        "url": "https://github.com/EverythingMe/magneto", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python", 
+      "Automation"
+    ], 
+    "icon_url": "", 
+    "forks_count": 6, 
+    "stars_count": 66, 
+    "description": "Android Test Automation"
   }, 
   {
     "icon_class": "mdi-action-settings-remote", 
@@ -174,7 +197,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 8, 
-    "stars_count": 58, 
+    "stars_count": 60, 
     "description": "fabric AWS integration"
   }, 
   {
@@ -201,8 +224,26 @@
     ], 
     "icon_url": "", 
     "forks_count": 4, 
-    "stars_count": 51, 
+    "stars_count": 52, 
     "description": "An open source app to showcase your open source work (yo dawg)"
+  }, 
+  {
+    "icon_class": "mdi-content-sort", 
+    "name": "ncdu-s3", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/ncdu-s3", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python", 
+      "DevOps"
+    ], 
+    "icon_url": "", 
+    "forks_count": 2, 
+    "stars_count": 42, 
+    "description": "Run ncdu on S3 buckets"
   }, 
   {
     "icon_class": "mdi-image-looks", 
@@ -219,49 +260,8 @@
     ], 
     "icon_url": "", 
     "forks_count": 16, 
-    "stars_count": 37, 
+    "stars_count": 38, 
     "description": "Cloudformation on steroids"
-  }, 
-  {
-    "icon_class": "mdi-notification-vibration", 
-    "name": "magneto", 
-    "links": [
-      {
-        "url": "http://getmagneto.com", 
-        "class": "mdi-action-home", 
-        "title": "getmagneto.com"
-      }, 
-      {
-        "url": "https://github.com/EverythingMe/magneto", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python", 
-      "Automation"
-    ], 
-    "icon_url": "", 
-    "forks_count": 3, 
-    "stars_count": 30, 
-    "description": "Android Test Automation"
-  }, 
-  {
-    "icon_class": "mdi-content-sort", 
-    "name": "ncdu-s3", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/ncdu-s3", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python", 
-      "DevOps"
-    ], 
-    "icon_url": "", 
-    "forks_count": 1, 
-    "stars_count": 24, 
-    "description": "Run ncdu on S3 buckets"
   }, 
   {
     "icon_class": "mdi-image-grid-on", 
@@ -279,7 +279,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 5, 
-    "stars_count": 22, 
+    "stars_count": 33, 
     "description": "Redshift Ops Console"
   }, 
   {
@@ -314,25 +314,8 @@
     ], 
     "icon_url": "", 
     "forks_count": 3, 
-    "stars_count": 11, 
+    "stars_count": 12, 
     "description": "Config parsing for click cli applications"
-  }, 
-  {
-    "icon_class": "mdi-editor-vertical-align-top", 
-    "name": "Screaction", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/Screaction", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "JavaScript"
-    ], 
-    "icon_url": "", 
-    "forks_count": 3, 
-    "stars_count": 11, 
-    "description": "A js script enabling you to change css values as the page scrolls"
   }, 
   {
     "icon_class": "mdi-action-settings", 
@@ -365,7 +348,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 6, 
+    "stars_count": 8, 
     "description": "Stream backups directly to/from S3/HDFS without wasting disk space during the process"
   }, 
   {
@@ -386,23 +369,21 @@
     "description": "Notes App for FirefoxOS"
   }, 
   {
-    "icon_class": "mdi-action-translate", 
-    "name": "jitt", 
+    "icon_class": "", 
+    "name": "jitter", 
     "links": [
       {
-        "url": "https://github.com/EverythingMe/jitt", 
+        "url": "https://github.com/EverythingMe/jitter", 
         "title": "github"
       }
     ], 
     "tags": [
-      "Android", 
-      "Java", 
-      "re:tools"
+      "Python"
     ], 
     "icon_url": "", 
-    "forks_count": 1, 
-    "stars_count": 5, 
-    "description": "Just In Time Translations (Android Plugin)"
+    "forks_count": 0, 
+    "stars_count": 3, 
+    "description": "Jitt Command Line Tool"
   }, 
   {
     "icon_class": "mdi-action-receipt", 
