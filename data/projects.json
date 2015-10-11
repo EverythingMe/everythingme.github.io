@@ -369,12 +369,16 @@
     "description": "Notes App for FirefoxOS"
   }, 
   {
-    "icon_class": "", 
+    "icon_class": "mdi-action-translate", 
     "name": "jitter", 
     "links": [
       {
         "url": "https://github.com/EverythingMe/jitter", 
         "title": "github"
+      },
+      {
+        "url": "http://jitt.io", 
+        "title": "jitt.io"
       }
     ], 
     "tags": [
