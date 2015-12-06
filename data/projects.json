@@ -459,23 +459,6 @@
     "description": "Disposable Consul - Helper for unit testing with Consul"
   }, 
   {
-    "icon_class": "", 
-    "name": "geeks.everything.me", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/geeks.everything.me", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "HTML"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 0, 
-    "description": ""
-  }, 
-  {
     "icon_class": "mdi-file-cloud", 
     "name": "go-accuweather", 
     "links": [
@@ -491,41 +474,6 @@
     "forks_count": 0, 
     "stars_count": 0, 
     "description": "Go wrapper for the Accuweather API."
-  }, 
-  {
-    "icon_class": "", 
-    "name": "gobabelfish.io", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/gobabelfish.io", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "CSS"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 0, 
-    "description": ""
-  }, 
-  {
-    "icon_class": "mdi-notification-vibration", 
-    "name": "magneto-demo-calc", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/magneto-demo-calc", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python", 
-      "Automation"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 0, 
-    "description": "Example Magneto tests for calculator app"
   }, 
   {
     "icon_class": "", 
