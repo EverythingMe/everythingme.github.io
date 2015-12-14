@@ -1,8 +1,8 @@
 $('#projects')
   .on('mixLoad', function(){
     $('footer')[0].dataset.ready = 'true';
-    loadBlogPosts();
-    loadJobs();
+    // loadBlogPosts();
+    // loadJobs();
   })
   .on('mixStart mixEnd', function(e) {
     document.body.dataset.mixing = e.type == 'mixStart';
