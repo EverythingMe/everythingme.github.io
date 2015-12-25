@@ -11,7 +11,7 @@ import logging
 
 __author__ = 'joeysim'
 
-PAGE_SIZE = 500
+PAGE_SIZE = 100
 
 # This tool builds / updates the projects.json file
 # it will update the following fields: description, stars_count, forks_count
@@ -32,6 +32,7 @@ def get_repos_from_github(user):
 
     logging.info('Fetching user info for %s', user)
     user_url = 'https://api.github.com/users/%s' % user
+    logging.debug(user_url)
     req = requests.get(user_url)
     user_data = req.json()
 
@@ -46,6 +47,7 @@ def get_repos_from_github(user):
     # TODO: should be replaced with a range that fits the # of repos
     for page in range(1, int(public_repos_count / PAGE_SIZE) + 2):
         logging.info('Fetching repos page #%s', page)
+        logging.debug(repo_url % (PAGE_SIZE, page))
         req = requests.get(repo_url % (PAGE_SIZE, page))
         repos_data = req.json()
         if repos_data and len(repos_data)>0:
