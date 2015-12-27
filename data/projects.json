@@ -14,7 +14,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 45, 
-    "stars_count": 358, 
+    "stars_count": 359, 
     "description": "Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views."
   }, 
   {
@@ -261,7 +261,7 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 1, 
+    "forks_count": 2, 
     "stars_count": 17, 
     "description": "webp support for Android API Level 4 and up, includes the native library and a WebPImageView to render webp in your app "
   }, 
@@ -380,7 +380,7 @@
     ], 
     "tags": [
       "JavaScript"
-    ], 
+    ],  
     "icon_url": "", 
     "forks_count": 27, 
     "stars_count": 5, 
@@ -495,6 +495,30 @@
     "forks_count": 0, 
     "stars_count": 3, 
     "description": "Execute Python code in country-specific networking context"
+  }, 
+  {
+    "icon_class": "mdi-action-translate", 
+    "name": "jitt", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/jitt", 
+        "title": "github"
+      },
+      {
+        "url": "http://jitt.io", 
+        "class": "mdi-action-home", 
+        "title": "jitt.io"
+      }
+    ], 
+    "tags": [
+      "Python",
+      "Android",
+      "Javascript"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 2, 
+    "description": "A crowd-sourcing oriented localization service for Andorid applications"
   }, 
   {
     "icon_class": "mdi-image-gradient", 
