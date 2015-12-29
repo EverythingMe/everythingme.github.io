@@ -13,8 +13,8 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 45, 
-    "stars_count": 359, 
+    "forks_count": 46, 
+    "stars_count": 369, 
     "description": "Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views."
   }, 
   {
@@ -31,7 +31,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 32, 
-    "stars_count": 270, 
+    "stars_count": 272, 
     "description": "A redis based geo-resolving library"
   }, 
   {
@@ -49,8 +49,8 @@
       "Python"
     ], 
     "icon_url": "", 
-    "forks_count": 13, 
-    "stars_count": 247, 
+    "forks_count": 14, 
+    "stars_count": 249, 
     "description": "Cross language bloom filter implementation"
   }, 
   {
@@ -68,7 +68,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 20, 
-    "stars_count": 149, 
+    "stars_count": 150, 
     "description": "Loose python framework for kickass redis patterns"
   }, 
   {
@@ -126,7 +126,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 2, 
-    "stars_count": 114, 
+    "stars_count": 115, 
     "description": "Go client for Disque"
   }, 
   {
@@ -144,7 +144,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 15, 
-    "stars_count": 89, 
+    "stars_count": 90, 
     "description": "Easy integration with Android's built-in and custom content providers data"
   }, 
   {
@@ -188,8 +188,8 @@
       "Javascript"
     ], 
     "icon_url": "", 
-    "forks_count": 5, 
-    "stars_count": 58, 
+    "forks_count": 6, 
+    "stars_count": 61, 
     "description": "An open source app to showcase your open source work (yo dawg)"
   }, 
   {
@@ -244,8 +244,25 @@
     ], 
     "icon_url": "", 
     "forks_count": 16, 
-    "stars_count": 41, 
+    "stars_count": 42, 
     "description": "Cloudformation on steroids"
+  }, 
+  {
+    "icon_class": "mdi-image-flare", 
+    "name": "vertex", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/vertex", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Go"
+    ], 
+    "icon_url": "", 
+    "forks_count": 4, 
+    "stars_count": 21, 
+    "description": "Go API management framework"
   }, 
   {
     "icon_class": "mdi-image-compare", 
@@ -262,7 +279,7 @@
     ], 
     "icon_url": "", 
     "forks_count": 2, 
-    "stars_count": 17, 
+    "stars_count": 18, 
     "description": "webp support for Android API Level 4 and up, includes the native library and a WebPImageView to render webp in your app "
   }, 
   {
@@ -280,8 +297,43 @@
     ], 
     "icon_url": "", 
     "forks_count": 1, 
-    "stars_count": 16, 
+    "stars_count": 17, 
     "description": "Create disposable redis servers on the fly for testing"
+  }, 
+  {
+    "icon_class": "mdi-action-system-update-tv", 
+    "name": "meduza", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/meduza", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Go"
+    ], 
+    "icon_url": "", 
+    "forks_count": 1, 
+    "stars_count": 17, 
+    "description": "A fast data store on top of redis"
+  }, 
+  {
+    "icon_class": "mdi-action-extension", 
+    "name": "lobo", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/lobo", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python", 
+      "re:tools"
+    ], 
+    "icon_url": "", 
+    "forks_count": 3, 
+    "stars_count": 16, 
+    "description": "Our Dev Flow Tool"
   }, 
   {
     "icon_class": "mdi-hardware-mouse", 
@@ -301,21 +353,21 @@
     "description": "Config parsing for click cli applications"
   }, 
   {
-    "icon_class": "mdi-action-system-update-tv", 
-    "name": "meduza", 
+    "icon_class": "mdi-notification-vpn-lock", 
+    "name": "teleport", 
     "links": [
       {
-        "url": "https://github.com/EverythingMe/meduza", 
+        "url": "https://github.com/EverythingMe/teleport", 
         "title": "github"
       }
     ], 
     "tags": [
-      "Go"
+      "Python"
     ], 
     "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 11, 
-    "description": "A fast data store on top of redis"
+    "forks_count": 2, 
+    "stars_count": 13, 
+    "description": "Execute Python code in country-specific networking context"
   }, 
   {
     "icon_class": "mdi-action-settings-ethernet", 
@@ -352,39 +404,22 @@
     "description": "A simple config file reading library for Go"
   }, 
   {
-    "icon_class": "mdi-action-extension", 
-    "name": "lobo", 
+    "icon_class": "mdi-image-tune", 
+    "name": "probe", 
     "links": [
       {
-        "url": "https://github.com/EverythingMe/lobo", 
+        "url": "https://github.com/EverythingMe/probe", 
         "title": "github"
       }
     ], 
     "tags": [
       "Python", 
-      "re:tools"
+      "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 7, 
-    "description": "Our Dev Flow Tool"
-  }, 
-  {
-    "icon_class": "mdi-action-assignment", 
-    "name": "ffos-notes", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/ffos-notes", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Javascript"
-    ],  
-    "icon_url": "", 
-    "forks_count": 27, 
-    "stars_count": 5, 
-    "description": "Notes App for FirefoxOS"
+    "forks_count": 1, 
+    "stars_count": 9, 
+    "description": "Android performance instrumentation tool"
   }, 
   {
     "icon_class": "mdi-action-translate", 
@@ -404,16 +439,33 @@
       "Python"
     ], 
     "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 5, 
+    "forks_count": 1, 
+    "stars_count": 7, 
     "description": "Jitt Command Line Tool"
   }, 
   {
-    "icon_class": "mdi-image-tune", 
-    "name": "probe", 
+    "icon_class": "mdi-action-assignment", 
+    "name": "ffos-notes", 
     "links": [
       {
-        "url": "https://github.com/EverythingMe/probe", 
+        "url": "https://github.com/EverythingMe/ffos-notes", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Javascript"
+    ], 
+    "icon_url": "", 
+    "forks_count": 27, 
+    "stars_count": 5, 
+    "description": "Notes App for FirefoxOS"
+  }, 
+  {
+    "icon_class": "mdi-image-gradient", 
+    "name": "recat", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/recat", 
         "title": "github"
       }
     ], 
@@ -422,26 +474,9 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 0, 
+    "forks_count": 3, 
     "stars_count": 5, 
-    "description": "Android performance instrumentation tool"
-  }, 
-  {
-    "icon_class": "mdi-image-flare", 
-    "name": "vertex", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/vertex", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Go"
-    ], 
-    "icon_url": "", 
-    "forks_count": 1, 
-    "stars_count": 3, 
-    "description": "Go API management framework"
+    "description": "logcat alternative with on the fly log deobfuscation!"
   }, 
   {
     "icon_class": "mdi-action-receipt", 
@@ -457,8 +492,8 @@
       "Android"
     ], 
     "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 3, 
+    "forks_count": 1, 
+    "stars_count": 5, 
     "description": "A python reimplementation on Proguard's Retrace"
   }, 
   {
@@ -480,30 +515,13 @@
     "description": "Disposable Redis for your Unittests"
   }, 
   {
-    "icon_class": "mdi-notification-vpn-lock", 
-    "name": "teleport", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/teleport", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 3, 
-    "description": "Execute Python code in country-specific networking context"
-  }, 
-  {
     "icon_class": "mdi-action-translate", 
     "name": "jitt", 
     "links": [
       {
         "url": "https://github.com/EverythingMe/jitt", 
         "title": "github"
-      },
+      }, 
       {
         "url": "http://jitt.io", 
         "class": "mdi-action-home", 
@@ -511,32 +529,14 @@
       }
     ], 
     "tags": [
-      "Python",
-      "Android",
+      "Python", 
+      "Android", 
       "Javascript"
     ], 
     "icon_url": "", 
     "forks_count": 0, 
     "stars_count": 2, 
     "description": "A crowd-sourcing oriented localization service for Andorid applications"
-  }, 
-  {
-    "icon_class": "mdi-image-gradient", 
-    "name": "recat", 
-    "links": [
-      {
-        "url": "https://github.com/EverythingMe/recat", 
-        "title": "github"
-      }
-    ], 
-    "tags": [
-      "Python", 
-      "Android"
-    ], 
-    "icon_url": "", 
-    "forks_count": 0, 
-    "stars_count": 2, 
-    "description": "logcat alternative with on the fly log deobfuscation!"
   }, 
   {
     "icon_class": "mdi-navigation-cancel", 
@@ -605,6 +605,23 @@
     "forks_count": 0, 
     "stars_count": 0, 
     "description": "Go wrapper for the Accuweather API."
+  }, 
+  {
+    "icon_class": "", 
+    "name": "meduza-py", 
+    "links": [
+      {
+        "url": "https://github.com/EverythingMe/meduza-py", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Python"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 0, 
+    "description": "Python client for meduza"
   }, 
   {
     "icon_class": "mdi-notification-do-not-disturb", 
